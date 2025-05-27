@@ -1,0 +1,17 @@
+<think>
+Okay, let's tackle this. The project is about Climate Justice Analysis using AI. The main goal is to assess how climate change affects marginalized communities and evaluate policy equity using NLP. 
+
+First, EMISSIONS_REDUCTION. The project itself doesn't directly reduce emissions. It's an analytical tool, so its impact on actual emissions would be indirect. Maybe by influencing policies, but since that's not certain, I should rate this low. Maybe 0.2?
+
+Next, POLICY_APPLICABILITY. Since it's designed to help evaluate policy equity and social vulnerability, it's likely to be useful for policymakers. It can highlight areas where policies might be unjust, so this should be a high score. Maybe 0.8 or 0.9?
+
+For SOCIAL_BENEFIT, the project directly addresses marginalized communities, which is a significant social issue. By bringing attention to these disparities, it can lead to more equitable policies. That's a big benefit, so maybe 0.9?
+
+Putting it all together, the summary would need to explain that the project doesn't reduce emissions directly but helps in making policies fairer, thus benefiting society.
+</think>
+
+IIDEA_ID: 20_climate_justice_analysis_using_ai  
+EMISSIONS_REDUCTION: 0.2  
+POLICY_APPLICABILITY: 0.9  
+SOCIAL_BENEFIT: 0.9  
+SUMMARY: This project does not directly reduce emissions but focuses on analyzing and addressing inequities in climate impacts, giving it a low emissions impact. However, its NLP-driven insights into policy equity and social vulnerability make it highly applicable for shaping just climate policies. By centering marginalized communities, it offers significant societal benefits through improved equity and informed decision-making.

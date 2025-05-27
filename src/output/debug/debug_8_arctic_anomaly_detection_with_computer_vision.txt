@@ -1,0 +1,17 @@
+<think>
+Okay, let me try to work through this. The project is about using computer vision to detect Arctic climate anomalies like ice melt and temperature spikes. The user wants me to rate it on three metrics: emissions reduction, policy applicability, and social benefit.
+
+First, emissions reduction. The project itself is a monitoring tool, right? It's detecting anomalies but not directly reducing emissions. So maybe EMISSIONS_REDUCTION is low. But maybe by detecting issues early, it can help in taking actions that reduce emissions. But how direct is that? I think it's more indirect, so maybe around 0.3.
+
+Next, policy applicability. If the system provides real-time data on Arctic changes, that's valuable for policymakers. They can use the data to create better policies, track the effectiveness of existing ones, or respond to anomalies. Since Arctic changes are a big climate issue, this could be quite useful for policy decisions. So maybe 0.7 or 0.8.
+
+Social benefit. The Arctic is a sensitive region, and changes there can affect global weather, sea levels, and indigenous communities. Detecting anomalies could help in early warnings for communities, maybe prevent disasters. Also, understanding climate change better benefits society by improving preparedness. So maybe 0.7 or 0.8 here as well.
+
+Putting it all together: Emissions reduction is 0.3, Policy applicability 0.8, Social benefit 0.7. The summary should explain that the project's main impact is in monitoring and informing policy and communities rather than directly cutting emissions.
+</think>
+
+IDEA_ID: 8_arctic_anomaly_detection_with_computer_vision  
+EMISSIONS_REDUCTION: 0.3  
+POLICY_APPLICABILITY: 0.8  
+SOCIAL_BENEFIT: 0.7  
+SUMMARY: This project primarily enhances monitoring and early detection of Arctic climate anomalies, which indirectly supports emissions reduction by informing mitigation strategies. Its high policy applicability stems from providing actionable, real-time data for climate policy and international agreements. Social benefits arise from improving understanding of Arctic changes, aiding communities vulnerable to sea-level rise and ecosystem shifts, though direct emissions reductions are minimal.

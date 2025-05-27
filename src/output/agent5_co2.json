@@ -1,0 +1,82 @@
+[
+  {
+    "idea_id": "8_arctic_anomaly_detection_with_computer_vision",
+    "co2_kg_per_year": 1047500.0
+  },
+  {
+    "idea_id": "9_climate_resilience_prediction_using_gans",
+    "co2_kg_per_year": 10000.0
+  },
+  {
+    "idea_id": "10_sea_level_rise_prediction_with_deep_learning",
+    "co2_kg_per_year": 3500000.0
+  },
+  {
+    "idea_id": "11_renewable_energy_output_forecasting",
+    "co2_kg_per_year": 3000000.0
+  },
+  {
+    "idea_id": "12_climate_policy_optimization_with_reinforcement_lea",
+    "co2_kg_per_year": 50000.0
+  },
+  {
+    "idea_id": "13_sustainable_deep_learning_models_for_energy_effici",
+    "co2_kg_per_year": 20000.0
+  },
+  {
+    "idea_id": "14_climate_data_fusion_for_enhanced_predictions",
+    "co2_kg_per_year": 3500000.0
+  },
+  {
+    "idea_id": "15_ai-driven_carbon_footprint_analysis",
+    "co2_kg_per_year": 300000.0
+  },
+  {
+    "idea_id": "16_geoengineering_impact_assessment_with_simulations",
+    "co2_kg_per_year": 3000000.0
+  },
+  {
+    "idea_id": "17_climate_tipping_points_prediction_with_predictive_",
+    "co2_kg_per_year": 3000000.0
+  },
+  {
+    "idea_id": "18_machine_learning_for_climate_adaptation_strategies",
+    "co2_kg_per_year": 450000.0
+  },
+  {
+    "idea_id": "19_environmental_predictive_modeling_with_transformer",
+    "co2_kg_per_year": 300000.0
+  },
+  {
+    "idea_id": "20_climate_justice_analysis_using_ai",
+    "co2_kg_per_year": 65000.0
+  },
+  {
+    "idea_id": "21_machine_learning-based_weather_forecasting_for_agr",
+    "co2_kg_per_year": 350000.0
+  },
+  {
+    "idea_id": "22_climate_model_uncertainty_quantification_with_baye",
+    "co2_kg_per_year": 10000.0
+  },
+  {
+    "idea_id": "23_climate_decision_support_systems_with_multi-agent_",
+    "co2_kg_per_year": 1000.0
+  },
+  {
+    "idea_id": "24_sustainable_development_optimization_with_ai",
+    "co2_kg_per_year": 75000.0
+  },
+  {
+    "idea_id": "25_ai_for_climate_governance_and_policy_implementatio",
+    "co2_kg_per_year": 1000000.0
+  },
+  {
+    "idea_id": "26_climate_informatics_for_carbon_footprint_visualiza",
+    "co2_kg_per_year": 150000.0
+  },
+  {
+    "idea_id": "27_climate_scenario_planning_with_generative_models",
+    "co2_kg_per_year": 15000.0
+  }
+]

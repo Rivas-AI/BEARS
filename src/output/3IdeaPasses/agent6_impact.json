@@ -1,0 +1,102 @@
+[
+  {
+    "idea_id": "8_arctic_anomaly_detection_with_computer_vision",
+    "impact_score": 0.6,
+    "summary": "should explain that the project's main impact is in monitoring and informing policy and communities rather than directly cutting emissions.\n</think>"
+  },
+  {
+    "idea_id": "9_climate_resilience_prediction_using_gans",
+    "impact_score": 0.7000000000000001,
+    "summary": "needs to explain these. The project's main benefit is in resilience and policy support, not direct emissions cuts. So EMISSIONS is low. Policy applicability is high because it offers actionable insights. Social benefit is high due to protecting communities from climate extremes.\n</think>"
+  },
+  {
+    "idea_id": "10_sea_level_rise_prediction_with_deep_learning",
+    "impact_score": 0.65,
+    "summary": "The model's predictive capabilities are essential for policy and societal preparedness, leading to high policy applicability and social benefit. However, direct emissions reduction is limited as the project focuses on forecasting rather than emission control.\n</think>"
+  },
+  {
+    "idea_id": "11_renewable_energy_output_forecasting",
+    "impact_score": 0.85,
+    "summary": "The project significantly reduces emissions by enabling precise integration of solar and wind energy into the grid, minimizing reliance on fossil fuels. It supports policy decisions through reliable data for renewable targets and grid planning, though broader applicability depends on stakeholder adoption. Social benefits include improved energy reliability, reduced costs, and enhanced resilience to climate disruptions, directly benefiting communities and advancing equitable energy access."
+  },
+  {
+    "idea_id": "12_climate_policy_optimization_with_reinforcement_lea",
+    "impact_score": 0.75,
+    "summary": "The project has a high potential to reduce emissions through optimized policies, is applicable due to its multi-impact evaluation, and promotes equity for social benefits. But real-world effectiveness and data limitations might lower the scores slightly.\n</think>"
+  },
+  {
+    "idea_id": "13_sustainable_deep_learning_models_for_energy_effici",
+    "impact_score": 0.7333333333333334,
+    "summary": "would mention that the project's focus on reducing computational energy use directly lowers emissions, the applicability to policy depends on integration with existing tools, and the social benefit is indirect through cost reduction and accessibility.\n</think>"
+  },
+  {
+    "idea_id": "14_climate_data_fusion_for_enhanced_predictions",
+    "impact_score": 0.7833333333333333,
+    "summary": "should explain that while the project enhances model accuracy and supports policy decisions with reliable data, the direct emissions reduction is moderate but the broader benefits to society through improved climate resilience are substantial.\n</think>"
+  },
+  {
+    "idea_id": "15_ai-driven_carbon_footprint_analysis",
+    "impact_score": 0.85,
+    "summary": "The project's use of GNNs for detailed analysis can lead to effective emission reductions by identifying optimization opportunities. It provides actionable data for policymakers, making it highly applicable. The social benefits are strong through climate mitigation but depend on implementation.\n</think>"
+  },
+  {
+    "idea_id": "16_geoengineering_impact_assessment_with_simulations",
+    "impact_score": 0.5666666666666667,
+    "summary": "This project does not directly reduce emissions but could inform geoengineering strategies that indirectly mitigate climate impacts. Its high policy applicability stems from providing critical, physics-grounded insights for evaluating geoengineering risks and trade-offs. Social benefit is moderate to high, as it could guide safer deployment of geoengineering but carries risks of misuse or misinterpretation if findings are not carefully communicated."
+  },
+  {
+    "idea_id": "17_climate_tipping_points_prediction_with_predictive_",
+    "impact_score": 0.7000000000000001,
+    "summary": "should clarify that. So the scores would be EMISSIONS_REDUCTION 0.4, POLICY_APPLICABILITY 0.8, SOCIAL_BENEFIT 0.9. The reasoning is that while it doesn't directly cut emissions, it informs policies and prevents disasters, leading to high policy and social impact.\n</think>"
+  },
+  {
+    "idea_id": "18_machine_learning_for_climate_adaptation_strategies",
+    "impact_score": 0.7000000000000001,
+    "summary": "The project doesn't directly cut emissions but helps in adapting, which is crucial. Policies will benefit from precise data, and communities gain protection. So the scores make sense.\n</think>"
+  },
+  {
+    "idea_id": "19_environmental_predictive_modeling_with_transformer",
+    "impact_score": 0.6333333333333333,
+    "summary": "This project directly addresses environmental prediction rather than emissions reduction, hence a moderate EMISSIONS_REDUCTION score. Its high POLICY_APPLICABILITY stems from providing actionable insights for conservation and land-use planning. SOCIAL_BENEFIT is strong due to potential to mitigate biodiversity loss and desertification, improving community resilience to climate impacts."
+  },
+  {
+    "idea_id": "20_climate_justice_analysis_using_ai",
+    "impact_score": 0.6666666666666666,
+    "summary": "would need to explain that the project doesn't reduce emissions directly but helps in making policies fairer, thus benefiting society.\n</think>"
+  },
+  {
+    "idea_id": "21_machine_learning-based_weather_forecasting_for_agr",
+    "impact_score": 0.7333333333333334,
+    "summary": "This project reduces emissions indirectly by optimizing irrigation and disaster response, lowering energy and resource use in agriculture. It supports climate policy through hyper-local data for targeted agricultural strategies. High social benefit arises from improved food security, crop resilience, and community adaptation to climate extremes, particularly in vulnerable regions."
+  },
+  {
+    "idea_id": "22_climate_model_uncertainty_quantification_with_baye",
+    "impact_score": 0.6833333333333332,
+    "summary": "This project directly improves the reliability of climate projections, which is critical for policymakers to design effective climate policies (high POLICY_APPLICABILITY). While it does not directly reduce emissions, increased confidence in models could indirectly accelerate emission-reduction strategies. Social benefits are moderate, as improved projections help communities prepare for climate impacts, though the primary societal value is in enabling better policy outcomes rather than direct community intervention."
+  },
+  {
+    "idea_id": "23_climate_decision_support_systems_with_multi-agent_",
+    "impact_score": 0.7166666666666667,
+    "summary": "The project can improve policy-making through stakeholder simulations, leading to effective climate strategies. However, its impact on emissions depends on real-world implementation. The social benefits are substantial if the policies are equitable and widely adopted.\n</think>"
+  },
+  {
+    "idea_id": "24_sustainable_development_optimization_with_ai",
+    "impact_score": 0.75,
+    "summary": "The project has strong potential in policy and social areas due to its holistic approach. Emissions reduction is good but may depend on implementation specifics. Policy applicability is high because of the data-driven optimization. Social benefits are significant from promoting equity and circular economies.\n</think>"
+  },
+  {
+    "idea_id": "25_ai_for_climate_governance_and_policy_implementatio",
+    "impact_score": 0.7999999999999999,
+    "summary": "should explain that while the AI doesn't directly cut emissions, it enhances compliance, which is crucial for policy effectiveness and societal well-being.\n</think>"
+  },
+  {
+    "idea_id": "26_climate_informatics_for_carbon_footprint_visualiza",
+    "impact_score": 0.6333333333333333,
+    "summary": "would mention that the project provides actionable insights for emissions reduction, supports policy with real-time data, and raises public awareness but depends on adoption and implementation.\n</think>"
+  },
+  {
+    "idea_id": "27_climate_scenario_planning_with_generative_models",
+    "impact_score": 0.6333333333333333,
+    "summary": "should explain that the project's main value is in informing policies and strategies, which indirectly affects emissions and social benefits.\n</think>"
+  }
+]

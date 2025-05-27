@@ -1,0 +1,74 @@
+[
+  {
+    "idea_id": "1_climate_tipping_point_prediction_system",
+    "co2_kg_per_year": 500000.0
+  },
+  {
+    "idea_id": "2_carbon_sequestration_optimization_network",
+    "co2_kg_per_year": 400000.0
+  },
+  {
+    "idea_id": "3_weather_pattern_classification_using_deep_learning",
+    "co2_kg_per_year": 1000.0
+  },
+  {
+    "idea_id": "4_forest_fire_detection_using_satellite_imagery",
+    "co2_kg_per_year": 600000.0
+  },
+  {
+    "idea_id": "5_climate-resilient_agriculture_network",
+    "co2_kg_per_year": 1000.0
+  },
+  {
+    "idea_id": "6_ocean_acidification_monitoring_system",
+    "co2_kg_per_year": 300000.0
+  },
+  {
+    "idea_id": "7_smart_grid_for_renewable_energy_integration",
+    "co2_kg_per_year": 12000.0
+  },
+  {
+    "idea_id": "8_wildlife_migration_pattern_analysis",
+    "co2_kg_per_year": 1000.0
+  },
+  {
+    "idea_id": "9_climate-driven_disaster_risk_assessment_system",
+    "co2_kg_per_year": 1000.0
+  },
+  {
+    "idea_id": "10_water_quality_monitoring_network",
+    "co2_kg_per_year": 5000.0
+  },
+  {
+    "idea_id": "11_urban_heat_island_mitigation_strategies",
+    "co2_kg_per_year": 30000.0
+  },
+  {
+    "idea_id": "12_climate-resilient_infrastructure_optimization_syst",
+    "co2_kg_per_year": 1000.0
+  },
+  {
+    "idea_id": "13_ecosystem_services_monitoring_network",
+    "co2_kg_per_year": 1000.0
+  },
+  {
+    "idea_id": "14_climate_change_impact_prediction_system",
+    "co2_kg_per_year": 70000.0
+  },
+  {
+    "idea_id": "15_sustainable_transportation_optimization_network",
+    "co2_kg_per_year": 10000.0
+  },
+  {
+    "idea_id": "16_climate-resilient_agriculture_supply_chain_optimiz",
+    "co2_kg_per_year": 50000.0
+  },
+  {
+    "idea_id": "17_ocean_thermal_energy_conversion_monitoring_system",
+    "co2_kg_per_year": 60000.0
+  },
+  {
+    "idea_id": "18_climate-driven_biodiversity_loss_prediction_system",
+    "co2_kg_per_year": 600000.0
+  }
+]

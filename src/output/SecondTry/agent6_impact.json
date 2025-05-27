@@ -1,0 +1,67 @@
+[
+  {
+    "idea_id": "1_climate_model_downscaling_with_deep_learning",
+    "impact_score": 0.7000000000000001,
+    "summary": "should explain that the project's main impact is indirect through better-informed policies and adaptation, not direct emissions cuts.\n</think>"
+  },
+  {
+    "idea_id": "2_climate_change_impact_on_agriculture_prediction_ne",
+    "impact_score": 0.6666666666666666,
+    "summary": "needs to explain that the model's main impact isn't reducing emissions directly but helps in policy and social benefits through better planning and food security.\n</think>"
+  },
+  {
+    "idea_id": "3_renewable_energy_forecasting_using_deep_learning",
+    "impact_score": 0.8666666666666667,
+    "summary": "should mention how accurate predictions reduce fossil fuel use, support policy decisions, and provide societal benefits like cost savings and cleaner energy.\n</think>"
+  },
+  {
+    "idea_id": "4_climate_change_risk_assessment_for_cities",
+    "impact_score": 0.6666666666666666,
+    "summary": "The project doesn't directly reduce emissions but helps in informed decision-making and community protection. High policy applicability and social benefit, moderate emissions impact if it leads to emission-reducing policies.\n</think>"
+  },
+  {
+    "idea_id": "5_deep_learning_for_carbon_capture_technologies",
+    "impact_score": 0.7166666666666667,
+    "summary": "needs to explain the reasoning. So, for emissions, high potential because optimizing existing tech. Policy applicability is good if the model is adopted. Social benefit is through reduced emissions and better tech. Maybe the scores are 0.75, 0.7, 0.7. Let me check again. If the model is real-time, that's a plus for both emissions and policy. Social benefit is a bit more indirect, so maybe 0.7. Hmm. I'll go with that.\n</think>"
+  },
+  {
+    "idea_id": "6_climate_change_migration_prediction_network",
+    "impact_score": 0.6666666666666666,
+    "summary": "needs to explain that while the project doesn't reduce emissions directly, it's useful for policies and has significant social benefits.\n</think>"
+  },
+  {
+    "idea_id": "7_deep_learning_for_ocean_acidification_monitoring",
+    "impact_score": 0.6333333333333334,
+    "summary": "The project's main impact is in monitoring and providing data, which supports policy and social benefits but doesn't directly cut emissions. Hence, lower emissions score, higher policy and social scores.\n</think>"
+  },
+  {
+    "idea_id": "8_climate_change_impact_on_marine_life_prediction_ne",
+    "impact_score": 0.5666666666666667,
+    "summary": "The project's main impact is in informing policies and conservation efforts rather than directly cutting emissions. High policy and social scores because of the ecological and community benefits.\n</think>"
+  },
+  {
+    "idea_id": "9_deep_learning_for_drought_prediction_and_mitigatio",
+    "impact_score": 0.7333333333333334,
+    "summary": ", the project has a moderate effect on emissions reduction through indirect methods but high policy and social impact by enabling proactive measures and reducing drought-related hardships.\n</think>"
+  },
+  {
+    "idea_id": "10_climate_change_impact_on_biodiversity_prediction_n",
+    "impact_score": 0.5666666666666667,
+    "summary": "The project helps in understanding biodiversity changes, aiding policy and conservation. Doesn't reduce emissions directly but supports long-term ecological health.\n</think>"
+  },
+  {
+    "idea_id": "11_deep_learning_for_coastal_erosion_monitoring_and_p",
+    "impact_score": 0.6333333333333334,
+    "summary": "The project doesn't directly cut emissions but supports adaptive measures that might reduce future emissions from coastal developments. It's very useful for policy decisions on coastal management and offers significant social benefits by protecting communities and enabling proactive measures.\n</think>"
+  },
+  {
+    "idea_id": "12_climate_change_impact_on_forest_fire_prediction_ne",
+    "impact_score": 0.7166666666666667,
+    "summary": "should explain that while the project doesn't directly cut emissions, it helps prevent fires which do, so the reduction is indirect. For policy, it's useful for planning. Social benefit is high due to protecting people and property.\n</think>"
+  },
+  {
+    "idea_id": "13_deep_learning_for_climate_change_mitigation_strate",
+    "impact_score": 0.8833333333333333,
+    "summary": "This project has strong potential to reduce emissions by optimizing mitigation strategies through data-driven insights, leveraging terrain and climate data for hyper-localized solutions. Its adaptability to diverse geographical contexts makes it highly applicable for policy decisions, while effective strategy selection could yield significant societal benefits by minimizing environmental harm and improving community resilience. However, real-world impact depends on implementation quality and accessibility."
+  }
+]
